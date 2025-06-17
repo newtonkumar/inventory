@@ -54,7 +54,7 @@ export default function Header() {
                   className="h-6 w-auto"
                 />
               </div>
-              <span className="font-bold text-xl text-gray-900">Fusion</span>
+              <span className="font-bold text-xl text-gray-900">Inventory</span>
             </a>
           </div>
           <div className="flex lg:hidden">
